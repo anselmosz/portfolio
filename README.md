@@ -34,4 +34,4 @@ _Edição da conta de usuário_
 
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/anselmosz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/matheus-souza-anselmo-aba10a215/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFF)](https://www.linkedin.com/in/matheus-souza-anselmo-aba10a215/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFF)](https://www.instagram.com/anselmoszm/profilecard/?igsh=MWxyeThvYTlibXhkZg==)
