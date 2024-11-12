@@ -1,32 +1,20 @@
-# ToDo Weblist
-Esta é uma lista de tarefas simples disponibilizada via web a qual possui funções da base CRUD, permitindo o armazenamento e visualização em tempo real de tarefas criadas pelo usuário em seu perfil.
+# Portfolio | Matheus Anselmo
 
-<!--
+Veja meu portfolio para conhecer mais sobre mim e meus projetos.
+
 ### Veja o status do último deploy
 
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/{owner}/{repo}/CI?label=build)
 ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
-##
--->
+### Acesse o deploy
 
-### As principais funcionalidades são
-_controle e gerencimento das tarefas_
-  - visualizar tarefas
-    - como quadro ou lista
-    - filtrar por data, nome ou prioridade
-  - adicionar
-  - definir prioridade
-  - estipular um prazo
-  - marcar como concluída
-  - sinalizar ou riscar
-  - remover
-
-_Edição da conta de usuário_
-  - A implementar
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=todoist&logoColor=white)](https://)
 
 ### ⚙ Tecnologias 
-  - A implementar
+  - HTML
+  - CSS
+  - JS
 
 ##
 
