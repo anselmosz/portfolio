@@ -1,19 +1,19 @@
 /* Configurações de responsividade da página */
 
 :root {
-  --fundo: #1B1A17; /* Fundo escuro neutro */
-  --fundo2: #E3E6EB; /* Fundo secundário para áreas com destaque menor */
-  --text: #E5E5E5; /* Texto em tom claro e confortável */
-  --icons: #E5E5E5; /* Ícones na mesma cor do texto para harmonia */
-  --buttons: #17BEBB; /* Vermelho suave para botões, menos saturado */
+  --fundo: #0C120C; /* Fundo escuro neutro */
+  --fundo2: #C7D6D5; /* Fundo secundário para áreas com destaque menor */
+  --text: #ECEBF3; /* Texto em tom claro e confortável */
+  --icons: #ECEBF3; /* Ícones na mesma cor do texto para harmonia */
+  --buttons: #279AF1; /* Vermelho suave para botões, menos saturado */
 }
 
 .light-mode:root {
-  --fundo: #EFF1C5;       /* Fundo branco suave com um toque de azul */
-  --fundo2: #002E2C;      /* Cinza claro, contrastando levemente com o fundo principal */
-  --text: #182825;        /* Preto suave para o texto */
-  --icons: #E5E5E5;       /* Ícones em preto para clareza */
-  --buttons: #DB222A  ;     /* Azul neutro e profissional para botões */
+  --fundo: #DBD8AE;       /* Fundo branco suave com um toque de azul */
+  --fundo2: #ECEBF3;      /* Cinza claro, contrastando levemente com o fundo principal */
+  --text: #0C120C;        /* Preto suave para o texto */
+  --icons: #ECEBF3;       /* Ícones em preto para clareza */
+  --buttons: #d60015;     /* Azul neutro e profissional para botões */
 }
 
 
@@ -162,12 +162,12 @@ header {
 
 .select.light .mode {
   left: 20px;
-  transition: .2s;
+  transition: 0.2s;
 }
 
 .select.light .mode {
   left: 20px;
-  transition: .2s;
+  transition: 0.2s;
 }
 
 
@@ -286,7 +286,7 @@ footer .box {
 #sobre {
   display: flex;
   gap: 5%;
-  padding: 8% 5%;
+  padding: 10rem 6rem;
   justify-content: center;
   align-items: flex-start; /* Alinha os itens ao topo */
 }
@@ -359,10 +359,6 @@ footer .box {
   transition: 0.2s ease-in-out;
 }
 
-.social-icon:hover {
-  background-color: var(--buttons);
-  border: 2px solid var(--buttons);
-}
 
 
 .icon-text {
@@ -396,7 +392,7 @@ footer .box {
 
 /* Seção de habilidades */
 #habilidades {
-  padding: 8%;
+  padding: 12rem 6rem;
 }
 
 #habilidades  h2{
