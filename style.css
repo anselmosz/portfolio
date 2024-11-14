@@ -10,7 +10,7 @@
 
 .light-mode:root {
   --fundo: #DBD8AE;       /* Fundo branco suave com um toque de azul */
-  --fundo2: #ECEBF3;      /* Cinza claro, contrastando levemente com o fundo principal */
+  --fundo2: #000;      /* Cinza claro, contrastando levemente com o fundo principal */
   --text: #0C120C;        /* Preto suave para o texto */
   --icons: #ECEBF3;       /* Ícones em preto para clareza */
   --buttons: #d60015;     /* Azul neutro e profissional para botões */
